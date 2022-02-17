@@ -1,0 +1,20 @@
+{
+  "name": "No.6 Collaborations Project",
+  "symbol": "Y",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "G3LdHDUN2uH7UppQeCc6F9GfN8RdUb47L6UN62pejbti",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {"name": "Albums", "family": "Music"}
+}

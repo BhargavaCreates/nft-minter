@@ -1,0 +1,20 @@
+{
+  "name": "Beerbongs & Bentleys",
+  "symbol": "Y",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "G3LdHDUN2uH7UppQeCc6F9GfN8RdUb47L6UN62pejbti",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {"name": "Albums", "family": "Music"}
+}
